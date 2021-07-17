@@ -2,7 +2,7 @@
 - 👀 I’m interested in Product Management in the Information Technology industry.
 - 🌱 I’m currently learning Swift & Xcode iOS App Development.
 - 💞️ I’m looking to collaborate on app development.
-- 📫 How to reach me: holecko@sas.upenn.edu
+- 📫 How to reach me: holecko at sas dot upenn dot edu
 
 <!---
 holeckova/holeckova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
