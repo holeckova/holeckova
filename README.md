@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @holeckova
+- 👋 Hi, I’m Sarah. I'm a junior @ University of Pennsylvania.
+- 📚 I'm studying Economics & Computer Science with a minor in International Relations. 
 - 👀 I’m interested in Product Management in the Technology industry.
 - 🌱 I’m currently learning Swift & Xcode iOS App Development.
 - 💞️ I’m looking to collaborate on app development.
