@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sarah. I'm a junior @ University of Pennsylvania.
-- 📚 I'm studying Economics & Computer Science with a minor in International Relations. 
-- 👀 I’m interested in Product Management in the Technology industry.
+- 📚 I'm studying Economics with a minor in Computer Science & Asian American Studies 
 - 🌱 I’m currently learning Swift & Xcode iOS App Development.
-- 💞️ I’m looking to collaborate on app development.
+- 👀 I’m looking to collaborate on app development.
 - 📫 How to reach me: holecko at sas dot upenn dot edu
 
 <!---
